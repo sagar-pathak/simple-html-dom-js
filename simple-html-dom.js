@@ -20,7 +20,7 @@
 	}
 
 	Plugin.prototype.init = function(){
-
+		/* */
 	};
 
 	$.fn[pluginName] = function ( options ){
